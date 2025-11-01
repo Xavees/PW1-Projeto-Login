@@ -1,0 +1,29 @@
+body {
+    background-color: orange ;
+}
+
+#texto {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border-color: black;
+    text-decoration: underline;
+    margin-top: auto;
+
+}
+.contorno {
+    background-color: rgba(150, 99, 4, 0.849);
+    position: absolute;
+    padding: 100px;
+    border-radius: 15px;
+    color: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+
+#cadastro {
+    background-color: black;
+    color: white;
+}
